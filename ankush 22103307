@@ -1,0 +1,46 @@
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+emp_medname = input("input med_name =")
+price = int(input(" enter price ="))
+quantity = int(input("enter quantity ="))
+
+m=np.array(emp_medname)
+p=np.array(price)
+q=np.array(quantity)
+
+print(m)
+print(p)
+print(q)
+for i = med
+
+
+sum =0
+n=int (input(" the sales of medicines in 1 day:"))
+sum+=sum+n
+r=int (input(" the sales of medicine in 1 day:"))
+sum+=sum+r
+t=int (input(" the sales of medicines in 1 day:"))
+sum+=sum+t
+v=int (input(" the sales of medicines in 1 day:"))
+sum+=sum+v
+
+
+sum=0
+for i in total:
+    sum = sum + sales[i]
+    print(" sales =",sum)
+
+
+
+o=int (input(" the profit of medicines in 1 day:"))
+y=int (input(" the profit of medicines in 1 day:"))
+l=int (input(" the profit of medicines in 1 day:"))
+w=int (input(" the profit of medicines in 1 day:"))
+
+
+sum=0
+for i in profit:
+    sum = sum + sales[i]
+    print(" profit =",sum)
